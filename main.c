@@ -1,3 +1,4 @@
+//Made by Aditya Ranjan.
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -135,14 +136,6 @@ void fight()
             }
         }
     }
-    /*  printf("\nAscending A: ");
-      for(i = 0; i < 5; i++){
-      printf("%d ",a[i]);
-      }
-          printf("\nAscending B: ");
-      for(i = 0; i < 5; i++){
-      printf("%d ",b[i]);
-      }*/
 }
 
 //----------------------------------------------------------------
@@ -172,35 +165,4 @@ void show()
     printf("\n");
 
 }
-
-
-//---------------------------------------------------------------
-/* for(l = 0; l < 5; l++){
- for(i = 0; i < 5; i++){
-     j = i+1;
-     if(a[i]>a[j]){
-         k = a[j];
-         a[j] = a[i];
-         a[i] = k;
-     }
- }
- }
- for(l = 0; l < 5; l++){
- for(i = 0; i < 5; i++){
-     j = i+1;
-     if(b[i]<b[j]){
-         k = b[j];
-         b[j] = b[i];
-         b[i] = k;
-     }
- }
- }
- printf("\nAscending: ");
- for(i = 0; i < 5; i++){
- printf("%d ",a[i]);
- }
- printf("\nDescending: ");
- for(i = 0; i < 5; i++){
- printf("%d ",b[i]);
- }*/
 //---------------------------------------------------------------
