@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1669229871 source:c:\users\adity\onedrive\desktop\c++\inher\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
